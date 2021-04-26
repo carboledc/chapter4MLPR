@@ -1,3 +1,4 @@
+% findIridium42
 % Run this script to use the SatelliteTracker to obtain the elevation of 
 % the International Space Station from Natick, MA.
 
