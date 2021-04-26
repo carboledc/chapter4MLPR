@@ -19,3 +19,5 @@ obs = [42.3,-71.35,0.1];
 
 % Calculate and plot elevations.
 [trise,tset] = getRiseSet(tstart,tspan,dt,"iridium42.txt",obs);
+
+% That's all!
